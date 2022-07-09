@@ -3,17 +3,15 @@
 <h1 align="left"> Oi ,sou João Teles</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Desenvolvedor Full Stack JavaScript
 
-- 🔭 Estou Buscado Oportunidade em Desenvolvimento Front-End
+- 🔭 Estou Buscado oportunidade em Desenvolvimento Front-End
 
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
+- 👨‍💻 Todos os meus projetos estão disponíveis em[joaotelesk.dev](https://maykbrito.dev)
 
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- 💬 Pergunte sobre **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact **Oneye 😜**
 
 <br><br>
 
