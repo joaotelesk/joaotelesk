@@ -1,12 +1,24 @@
-## Hello, there ✌
 
-My name is João Teles and I am a full-stack web developer from Fortaleza, Ceará. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device (and to teach others how to do the same).
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/b16637740b334b5561ea4b9e3427197c/tenor.gif?itemid=27169489" width="500" height="320" />
+ Hello, there ✌
+ <br/>
+ <br/>
+I'm Joao Teles, I live in Fortaleza - CE - Brazil.
+<br/>
+<br/>
+I'm a full-stack web developer and i like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
 
-I'm currently open for new projects so you can reach me trough [WhatsApp](https://wa.me/5595988277110), [Linkedin](www.linkedin.com/in/joaotelesk), or [email](mailto:joaojoseteles@gmail.com)
 
-<a href="#">
-    <img src="https://media1.tenor.com/images/b16637740b334b5561ea4b9e3427197c/tenor.gif?itemid=27169489" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+<br/>
+<br/>
+I'm currently open for new projects so you can reach me trough linkedin.
+<br/>
+<br/>
+<a href="https://www.linkedin.com/in/joaotelesk/">
+  <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<hr/>
+<br/>
 
 ### Here's some of the stuff I like to use
 
