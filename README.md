@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://media1.tenor.com/images/b16637740b334b5561ea4b9e3427197c/tenor.gif?itemid=27169489" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/b16637740b334b5561ea4b9e3427197c/tenor.gif?itemid=27169489" width="500" height="330" />
  Hello, there ✌
  <br/>
  <br/>
@@ -7,8 +7,7 @@ I'm Joao Teles, I live in Fortaleza - CE - Brazil.
 <br/>
 <br/>
 I'm a full-stack web developer and i like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device.
-
-
+<br/>
 <br/>
 <br/>
 I'm currently open for new projects so you can reach me trough linkedin.
